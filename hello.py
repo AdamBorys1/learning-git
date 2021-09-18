@@ -1,1 +1,1 @@
-print("hello world, how are you?")
+print("Hiszpańska inkwizycja jest super!")
